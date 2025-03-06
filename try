@@ -1,3 +1,4 @@
+} catch (IOException e) {
 rs.close();
 ResultSet rs = ps.executeQuery();
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
