@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 // error processing code
 } catch (IOException e) {
 rs.close();
