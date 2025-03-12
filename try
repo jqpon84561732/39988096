@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 props.load(fs);
 Class.forName(driverClass);
 // error processing code
