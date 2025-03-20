@@ -1,3 +1,4 @@
+props.load(fs);
 try {
 BufferedWriter out = null;
 out.close();
